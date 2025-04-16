@@ -17,5 +17,6 @@ Here are some ideas to get you started:
 <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-ouuan.vercel.app/api?username=zhexilian&theme=dark&show_icons=true">
     <img align="right" width="50%" src="https://github-readme-stats-ouuan.vercel.app/api?username=zhexilian&show_icons=true">
-</picture>
-I'm **zhexilian*  
+</picture>  
+
+I'm **zhexi lian** from Tonji University and now I'm a Ph.D. student.  
