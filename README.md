@@ -22,4 +22,5 @@ Here are some ideas to get you started:
 I'm **zhexi lian** from Tonji University and now I'm a Ph.D. student.  
 ## Education  
 - 🖋️Tongji University from 2019 ~ 2023 bachelor's degree
-- 🖋️Tongji University from 2023 ~  Ph.D. student
+- 🖋️Tongji University from 2023 ~ 2025 master student
+- 🖋️Tongji University from 2025 ~  Ph.D. student
