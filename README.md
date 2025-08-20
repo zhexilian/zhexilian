@@ -19,7 +19,7 @@ Here are some ideas to get you started:
     <img align="right" width="50%" src="https://github-readme-stats-ouuan.vercel.app/api?username=zhexilian&show_icons=true">
 </picture>  
 
-🤔 I'm **zhexi lian** from Tonji University and now I'm a Ph.D. student.  
+🤔 I'm **zhexi lian**, a Ph.D. student from Tonji University.  
 🤔 Now I'm a VLM/VLA intern (Perception multimodal group) in **NIO motor**.  
 🤔 **Research interests**: E2E autonomous driving (planning); VLM for scene intelligence; Reinforcement learning
 
