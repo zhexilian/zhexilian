@@ -29,3 +29,7 @@ Now I'm a VLM/VLA intern (Perception multimodal group) in **NIO motors**
 - 🖋️Tongji University from 2019 ~ 2023 bachelor's degree
 - 🖋️Tongji University from 2023 ~ 2025 master student
 - 🖋️Tongji University from 2025 ~  Ph.D. student
+
+## Publiactions
+- ***2025-6:*** :bomb::bomb::bomb: "*MPCFormer: A physics-informed data-driven approach for explainable socially-aware autonomous driving*" is accept by ***IROS 2025!***
+- ***2025-6:*** :bomb::bomb::bomb: "*Continuously Improved Reinforcement Learning for Automated Driving*" is accept by ***IROS 2025!***
