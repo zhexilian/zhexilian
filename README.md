@@ -21,9 +21,9 @@ Here are some ideas to get you started:
 
 I'm **zhexi lian**, a Ph.D. student from Tonji University.  
 
-Now I'm a VLM/VLA intern (Perception multimodal group) in **NIO motors**  
+:fire:Now I'm a VLM/VLA intern (Perception multimodal group) in **NIO motors**  
 
-🤔 **Research interests**: E2E autonomous driving (planning); VLM for scene intelligence; Reinforcement learning
+🤔**Research interests**: E2E autonomous driving (planning); VLM for scene intelligence; Reinforcement learning
 
 ## Education  
 - 🖋️Tongji University from 2019 ~ 2023 bachelor's degree
