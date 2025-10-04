@@ -33,4 +33,4 @@ I'm **zhexi lian**, a Ph.D. student from Tongji University.
 ## Publiactions
 - ***2025-6:*** :bomb::bomb::bomb: "*MPCFormer: A physics-informed data-driven approach for explainable socially-aware autonomous driving*" is accept by ***IROS 2025!*** [[Poster]](https://github.com/zhexilian/zhexilian/issues/3)
 - ***2025-6:*** :bomb::bomb::bomb: "*Continuously Improved Reinforcement Learning for Automated Driving*" is accept by ***IROS 2025!***
-- ***2025-6:*** :guardsman::guardsman::guardsman:"*Human-Machine Shared Control Approach for the Takeover of Cooperative Adaptive Cruise Control*" is accepted bt ***IEEE Transactions on Intelligent Transportation System (JCR Q1)!*** [[Paper]](https://ieeexplore.ieee.org/abstract/document/11053216)
+- ***2025-6:*** :guardsman::guardsman::guardsman:"*Human-Machine Shared Control Approach for the Takeover of Cooperative Adaptive Cruise Control*" is accepted by ***IEEE Transactions on Intelligent Transportation System (JCR Q1)!*** [[Paper]](https://ieeexplore.ieee.org/abstract/document/11053216)
